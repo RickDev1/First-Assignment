@@ -1,0 +1,58 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+.Helping {
+    height: 80%;
+    width: 100%;
+    position: fixed;
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    padding: 40px;
+
+
+}
+
+.Head {
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    align-items: center;
+    padding-top: 150px;
+    text-align: center;
+
+
+}
+
+.h1 {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+
+
+}
+
+.p1 {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(108, 185, 230);
+}
+
+.c1 {
+    color: rgb(162, 187, 219);
+}
+
+.Link-button {
+    text-decoration: none;
+    background-color: brown;
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(yellow, tomato);
+
+}
