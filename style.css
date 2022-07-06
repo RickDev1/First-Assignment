@@ -3,17 +3,20 @@ body {
     font-family: 'Ubuntu', sans-serif;
     display: flex;
     margin: 0px;
-    padding: 0px;
+
 }
 
-.Helping {
-    height: 80%;
-    width: 100%;
-    position: fixed;
-    background-image: url(images/donation13.jpg);
-    background-size: cover;
-    padding: 40px;
+.section1 {
 
+    background-image: url(images/donation13.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 
 }
 
@@ -55,4 +58,9 @@ body {
     font-weight: 700;
     background-image: linear-gradient(yellow, tomato);
 
+}
+
+.h2 {
+    color: blanchedalmond;
+    padding-bottom: 1000px;
 }
