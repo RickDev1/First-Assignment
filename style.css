@@ -126,3 +126,80 @@ body {
     padding: 50px;
     padding-left: 858px;
 }
+
+.section2 {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.p3 {
+    color: rgb(150, 148, 148);
+    font-size: 20px;
+}
+
+
+
+.Food {
+    width: 12%;
+    margin: 15px;
+    padding: 70px;
+    background-color: rgb(218, 233, 250);
+    border-radius: 4%;
+}
+
+.shelter {
+    width: 12%;
+    margin: 15px;
+    padding: 70px;
+    background-color: rgb(216, 245, 239);
+    border-radius: 4%;
+}
+
+.education {
+    width: 12%;
+    margin: 15px;
+    padding: 70px;
+    background-color: rgb(245, 232, 226);
+    border-radius: 4%;
+}
+
+.E-h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.p4 {
+    font-size: 25px;
+    color: rgb(133, 132, 132);
+}
+
+.section3 {
+    display: flex;
+
+}
+
+.Depend {
+    width: 50%;
+    margin: 50px;
+    padding: 90px;
+    border-radius: 10%;
+}
+
+.Link-button3 {
+    text-decoration: none;
+    background-color: brown;
+    padding: 15px 40px;
+    border-radius: 6px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(255, 145, 0), tomato);
+    text-align: center;
+    font-size: 20px;
+
+
+}
+
+.section4 {
+    display: flex;
+}
